@@ -18,4 +18,10 @@ body {
   border: 1px solid black;
 }
 
+
+.grid-item {
+  background-color: grey;
+  border: 1px solid black;
+}
+
 /* add the .bigItem class */
